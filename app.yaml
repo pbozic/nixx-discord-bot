@@ -1,0 +1,106 @@
+lavalink:
+    plugins:
+        - dependency: com.github.topi314.lavasrc:lavasrc-plugin:4.3.0
+        - dependency: dev.lavalink.youtube:youtube-plugin:1.8.3
+    server:
+        bufferDurationMs: 400
+        filters:
+            channelMix: true
+            distortion: true
+            equalizer: true
+            karaoke: true
+            lowPass: true
+            rotation: true
+            timescale: true
+            tremolo: true
+            vibrato: true
+            volume: true
+        frameBufferDurationMs: 5000
+        gc-warnings: true
+        nonAllocatingFrameBuffer: false
+        opusEncodingQuality: 10
+        password: nixxbot123
+        playerUpdateInterval: 5
+        resamplingQuality: LOW
+        soundcloudSearchEnabled: true
+        sources:
+            bandcamp: false
+            http: true
+            local: false
+            nico: false
+            soundcloud: false
+            spotify: true
+            twitch: false
+            vimeo: false
+            youtube: false
+        trackStuckThresholdMs: 10000
+        useSeekGhosting: true
+        youtubePlaylistLoadLimit: 6
+        youtubeSearchEnabled: false
+logging:
+    file:
+        path: ./logs/
+    level:
+        lavalink: INFO
+        root: INFO
+    logback:
+        rollingpolicy:
+            max-file-size: 1GB
+            max-history: 30
+    request:
+        enabled: true
+        includeClientInfo: true
+        includeHeaders: false
+        includePayload: true
+        includeQueryString: true
+        maxPayloadLength: 10000
+metrics:
+    prometheus:
+        enabled: false
+        endpoint: /metrics
+plugins:
+    lavasrc:
+        providers:
+            - spsearch:%QUERY
+            - ytsearch:%QUERY%
+            - ytsearch:%QUERY%
+        sources:
+            applemusic: false
+            deezer: false
+            flowerytts: false
+            spotify: true
+            vkmusic: false
+            yandexmusic: false
+            youtube: true
+        spotify:
+            albumLoadLimit: 6
+            clientId: afaba5b42c644b6593401f9947659163
+            clientSecret: 723072d6ea014ce6a9ebdb8378690996
+            countryCode: DE
+            localFiles: false
+            playlistLoadLimit: 6
+        youtube:
+            countryCode: DE
+    youtube:
+        allowDirectPlaylistIds: true
+        allowDirectVideoIds: true
+        allowSearch: true
+        clients:
+            - MUSIC
+            - ANDROID_VR
+            - WEB
+            - WEBEMBEDDED
+            - TVHTML5EMBEDDED
+        enabled: true
+        pot:
+            token: MpQBAwbg-qubGOIDPvcHVe7YjGdjOQWHJ_eTq5YhUMMI9eiuvTnq7aRTq0rwheIC8cs8_gw2waWWZA3X6s-m5TsDKPJ3VcPmg6ImdH5-X5AzFylKlviDtrybwPWzdbi_dWKQL3HXuOnRWuxskMlPrqvm0dcdnqI5weo16ifgREnWWS8sGyfg4oXcyUauFfXSoj-r8dCSfQ==
+            visitor_data: CgtKZjNqN01na2QwYyjLgc65BjIiCgJTSRIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgJg%3D%3D
+sentry:
+    dsn: ""
+    environment: ""
+server:
+    address: 0.0.0.0
+    http2:
+        enabled: false
+    port: 6173
+    websocket: /v4/websocket

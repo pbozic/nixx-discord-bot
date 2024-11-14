@@ -1,0 +1,350 @@
+{
+    "tracks": [
+        {
+            "encoded": "QAAA0wMAMVN5c3RlbSBPZiBBIERvd24gLSBMb25lbHkgRGF5IChPZmZpY2lhbCBIRCBWaWRlbykAEFN5c3RlbSBPZiBBIERvd24AAAAAAAKf4AALRG5HZG9FYTF0UGcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1Ebkdkb0VhMXRQZwEANGh0dHBzOi8vaS55dGltZy5jb20vdmkvRG5HZG9FYTF0UGcvbWF4cmVzZGVmYXVsdC5qcGcAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "DnGdoEa1tPg",
+                "author": "System Of A Down",
+                "duration": 172000,
+                "artworkUrl": "https://i.ytimg.com/vi/DnGdoEa1tPg/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=DnGdoEa1tPg",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System Of A Down - Lonely Day (Official HD Video)"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAA0AMANFN5c3RlbSBvZiBhIGRvd24gLSBMb25lbHkgZGF5IChseXJpY3MgYnkgR29vZEx5cmljcykACkdvb2RMeXJpY3MAAAAAAAKb+AALWURDNG5HQ2p5bUUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZREM0bkdDanltRQEANGh0dHBzOi8vaS55dGltZy5jb20vdmkvWURDNG5HQ2p5bUUvbWF4cmVzZGVmYXVsdC5qcGcAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "YDC4nGCjymE",
+                "author": "GoodLyrics",
+                "duration": 171000,
+                "artworkUrl": "https://i.ytimg.com/vi/YDC4nGCjymE/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=YDC4nGCjymE",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System of a down - Lonely day (lyrics by GoodLyrics)"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAA0gMALkxPTkVMWSBEQVkgLSBTeXN0ZW0gT2YgQSBEb3duIChhY291c3RpYyBjb3ZlcikAEkLDoXJiYXJhIE1hcnTDrW5legAAAAAAAohwAAtKQzRRREV0VmtTYwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUpDNFFERXRWa1NjAQA0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9KQzRRREV0VmtTYy9tYXhyZXNkZWZhdWx0LmpwZwAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "info": {
+                "identifier": "JC4QDEtVkSc",
+                "author": "Bárbara Martínez",
+                "duration": 166000,
+                "artworkUrl": "https://i.ytimg.com/vi/JC4QDEtVkSc/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=JC4QDEtVkSc",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "LONELY DAY - System Of A Down (acoustic cover)"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAAwAMAJFN5c3RlbSBvZiBhIERvd24gTG9uZWx5IERheSArIGx5cmljcwAORHVqZSBCcmFkYXJpxIcAAAAAAAKb+AALenFEeGEwS05sc00AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj16cUR4YTBLTmxzTQEAMGh0dHBzOi8vaS55dGltZy5jb20vdmkvenFEeGEwS05sc00vbXFkZWZhdWx0LmpwZwAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "info": {
+                "identifier": "zqDxa0KNlsM",
+                "author": "Duje Bradarić",
+                "duration": 171000,
+                "artworkUrl": "https://i.ytimg.com/vi/zqDxa0KNlsM/mqdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=zqDxa0KNlsM",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System of a Down Lonely Day + lyrics"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAAwwMAI1BoYW50b20gUGxhbmV0IC0gTG9uZWx5IERheSAoVmlkZW8pAA5QaGFudG9tIFBsYW5ldAAAAAAAA1OQAAtKZUZ6dmVQY3NxRQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUplRnp2ZVBjc3FFAQA0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9KZUZ6dmVQY3NxRS9tYXhyZXNkZWZhdWx0LmpwZwAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "info": {
+                "identifier": "JeFzvePcsqE",
+                "author": "Phantom Planet",
+                "duration": 218000,
+                "artworkUrl": "https://i.ytimg.com/vi/JeFzvePcsqE/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=JeFzvePcsqE",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "Phantom Planet - Lonely Day (Video)"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAABKQMAHVN5c3RlbSBvZiBhIERvd24gLSBMb25lbHkgRGF5ABNHYWxhY3RvY2VyZWJyw7NzaWRvAAAAAAACmBAAC3RjNUJsYW4xZjhvAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dGM1QmxhbjFmOG8BAJtodHRwczovL2kueXRpbWcuY29tL3ZpL3RjNUJsYW4xZjhvL21heHJlc2RlZmF1bHQuanBnP3NxcD0tb2F5bXdFbUNJQUtFTkFGOHF1S3FRTWE4QUVCLUFILUNZQUMwQVdLQWd3SUFCQUJHSElnUnlnNE1BOD0mcnM9QU9uNENMRHBISWhRd1dMQWRsT213SmZ1cF9WM2t5bmY2QQAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "info": {
+                "identifier": "tc5Blan1f8o",
+                "author": "Galactocerebrósido",
+                "duration": 170000,
+                "artworkUrl": "https://i.ytimg.com/vi/tc5Blan1f8o/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRyg4MA8=&rs=AOn4CLDpHIhQwWLAdlOmwJfup_V3kynf6A",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=tc5Blan1f8o",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System of a Down - Lonely Day"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAAuAMAIlN5c3RlbSBvZiBhIGRvd24gLSBMb25lbHkgRGF5IFtIUV0ACHhYQTFMMlh4AAAAAAACkEAAC2RrZ0lXYUUtTU9VAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZGtnSVdhRS1NT1UBADBodHRwczovL2kueXRpbWcuY29tL3ZpL2RrZ0lXYUUtTU9VL21xZGVmYXVsdC5qcGcAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "dkgIWaE-MOU",
+                "author": "xXA1L2Xx",
+                "duration": 168000,
+                "artworkUrl": "https://i.ytimg.com/vi/dkgIWaE-MOU/mqdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=dkgIWaE-MOU",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System of a down - Lonely Day [HQ]"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAAuwMAJlN5c3RlbSBvZiBhIGRvd24gLSBMb25lbHkgZGF5IChseXJpY3MpAAdFcm1pbHplAAAAAAACkEAAC2poVVNzUV9PWHpjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9amhVU3NRX09YemMBADBodHRwczovL2kueXRpbWcuY29tL3ZpL2poVVNzUV9PWHpjL21xZGVmYXVsdC5qcGcAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "jhUSsQ_OXzc",
+                "author": "Ermilze",
+                "duration": 168000,
+                "artworkUrl": "https://i.ytimg.com/vi/jhUSsQ_OXzc/mqdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=jhUSsQ_OXzc",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System of a down - Lonely day (lyrics)"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAApwMACkxvbmVseSBkYXkAC0ZyYW5rbWVybG9kAAAAAAABV8AAC0Q4N2dWVHdvVk1BAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RDg3Z1ZUd29WTUEBADRodHRwczovL2kueXRpbWcuY29tL3ZpL0Q4N2dWVHdvVk1BL21heHJlc2RlZmF1bHQuanBnAAAHeW91dHViZQAAAAAAAAAA",
+            "info": {
+                "identifier": "D87gVTwoVMA",
+                "author": "Frankmerlod",
+                "duration": 88000,
+                "artworkUrl": "https://i.ytimg.com/vi/D87gVTwoVMA/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=D87gVTwoVMA",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "Lonely day"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAA0wMAM1N5c3RlbSBPZiBBIERvd24gLSBMb25lbHkgRGF5IGxpdmUgKEhEL0RWRCBRdWFsaXR5KQAOT2JleVlvdXJTeXN0ZU0AAAAAAAKUKAALbndWcWJaSlVUUEEAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ud1ZxYlpKVVRQQQEANGh0dHBzOi8vaS55dGltZy5jb20vdmkvbndWcWJaSlVUUEEvbWF4cmVzZGVmYXVsdC5qcGcAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "nwVqbZJUTPA",
+                "author": "ObeyYourSysteM",
+                "duration": 169000,
+                "artworkUrl": "https://i.ytimg.com/vi/nwVqbZJUTPA/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=nwVqbZJUTPA",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System Of A Down - Lonely Day live (HD/DVD Quality)"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAAygMANEZpamkgLSBMb25lbHkgRGF5cyAoT2ZmaWNpYWwgTHlyaWMgVmlkZW8pIGZ0LiBKIEJvb2cABEZpamkAAAAAAANrAAALRWNraGNsMTZlbTQAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1FY2toY2wxNmVtNAEANGh0dHBzOi8vaS55dGltZy5jb20vdmkvRWNraGNsMTZlbTQvbWF4cmVzZGVmYXVsdC5qcGcAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "Eckhcl16em4",
+                "author": "Fiji",
+                "duration": 224000,
+                "artworkUrl": "https://i.ytimg.com/vi/Eckhcl16em4/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=Eckhcl16em4",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "Fiji - Lonely Days (Official Lyric Video) ft. J Boog"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAAugMAJEFrb24gLSBMb25lbHkgKE9mZmljaWFsIE11c2ljIFZpZGVvKQAEQWtvbgAAAAAABAdAAAs2RUVXLTlORE01awABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTZFRVctOU5ETTVrAQA0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS82RUVXLTlORE01ay9tYXhyZXNkZWZhdWx0LmpwZwAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "info": {
+                "identifier": "6EEW-9NDM5k",
+                "author": "Akon",
+                "duration": 264000,
+                "artworkUrl": "https://i.ytimg.com/vi/6EEW-9NDM5k/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=6EEW-9NDM5k",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "Akon - Lonely (Official Music Video)"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAA4QMAQVN5c3RlbSBPZiBBIERvd24gLSBMb25lbHkgRGF5IGxpdmUgQXJtZW5pYSBbMTA4MHDhtLThtLAgfCA2MCBmcHNdAA5PYmV5WW91clN5c3RlTQAAAAAAAny4AAttUFJhaEFUeGx3VQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW1QUmFoQVR4bHdVAQA0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9tUFJhaEFUeGx3VS9tYXhyZXNkZWZhdWx0LmpwZwAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "info": {
+                "identifier": "mPRahATxlwU",
+                "author": "ObeyYourSysteM",
+                "duration": 163000,
+                "artworkUrl": "https://i.ytimg.com/vi/mPRahATxlwU/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=mPRahATxlwU",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System Of A Down - Lonely Day live Armenia [1080pᴴᴰ | 60 fps]"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAABIAMAHUxvbmVseSBEYXkgICBTeXN0ZW0gT2YgQSBEb3duAApKYWNrIFlvdW5nAAAAAAACxvAAC2VYODJQbUYtVkdVAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZVg4MlBtRi1WR1UBAJtodHRwczovL2kueXRpbWcuY29tL3ZpL2VYODJQbUYtVkdVL21heHJlc2RlZmF1bHQuanBnP3NxcD0tb2F5bXdFbUNJQUtFTkFGOHF1S3FRTWE4QUVCLUFILUNZQUMwQVdLQWd3SUFCQUJHR29nYWlocU1BOD0mcnM9QU9uNENMRHlINWhIR0RKSnMzY2Qta01KeXNsTjdWeFZSdwAAB3lvdXR1YmUAAAAAAAAAAA==",
+            "info": {
+                "identifier": "eX82PmF-VGU",
+                "author": "Jack Young",
+                "duration": 182000,
+                "artworkUrl": "https://i.ytimg.com/vi/eX82PmF-VGU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGogaihqMA8=&rs=AOn4CLDyH5hHGDJJs3cd-kMJyslN7VxVRw",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=eX82PmF-VGU",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "Lonely Day   System Of A Down"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAABMwMAMVN5c3RlbSBPZiBBIERvd24gLSBMb25lbHkgRGF5ICggc2xvd2VkICsgcmV2ZXJiICkACUJyYWdnZXIgIAAAAAAAAxUQAAtQU1E4SmIwRG45RQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVBTUThKYjBEbjlFAQCbaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9QU1E4SmIwRG45RS9tYXhyZXNkZWZhdWx0LmpwZz9zcXA9LW9heW13RW1DSUFLRU5BRjhxdUtxUU1hOEFFQi1BSC1DWUFDMEFXS0Fnd0lBQkFCR0V3Z1RTaGxNQTg9JnJzPUFPbjRDTENzTndnTmEzQmxUZFkyWG1YX0ZUbXJHNzZjdlEAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "PSQ8Jb0Dn9E",
+                "author": "Bragger  ",
+                "duration": 202000,
+                "artworkUrl": "https://i.ytimg.com/vi/PSQ8Jb0Dn9E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgTShlMA8=&rs=AOn4CLCsNwgNa3BlTdY2XmX_FTmrG76cvQ",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=PSQ8Jb0Dn9E",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System Of A Down - Lonely Day ( slowed + reverb )"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAABKgMAI1N5c3RlbSBPZiBBIERvd24gLSBMb25lbHkgRGF5IExpdmUuAA5KYWthcnRhIEdydW5nZQAAAAAAAMc4AAtTX0tPWl9CYnZQdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVNfS09aX0JidlB3AQCbaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9TX0tPWl9CYnZQdy9tYXhyZXNkZWZhdWx0LmpwZz9zcXA9LW9heW13RW1DSUFLRU5BRjhxdUtxUU1hOEFFQi1BSE9CWUFDZ0FxS0Fnd0lBQkFCR0g4Z01TZ29NQTg9JnJzPUFPbjRDTENCdk5sYlBkYkpubUIxa2ZWN3lQd1hmcTVveGcAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "S_KOZ_BbvPw",
+                "author": "Jakarta Grunge",
+                "duration": 51000,
+                "artworkUrl": "https://i.ytimg.com/vi/S_KOZ_BbvPw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGH8gMSgoMA8=&rs=AOn4CLCBvNlbPdbJnmB1kfV7yPwXfq5oxg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=S_KOZ_BbvPw",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "System Of A Down - Lonely Day Live."
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAABKgMAJUxvbmVseSBEYXkgLSBTeXN0ZW0gT2YgYSBEb3duIChpbnRybykADExldmUgVmlvbMOjbwAAAAAAADawAAttUUlUcTlhXzRCWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW1RSVRxOWFfNEJZAQCbaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9tUUlUcTlhXzRCWS9tYXhyZXNkZWZhdWx0LmpwZz9zcXA9LW9heW13RW1DSUFLRU5BRjhxdUtxUU1hOEFFQi1BRzJDSUFDZ0EtS0Fnd0lBQkFCR0hJZ1VDZzdNQTg9JnJzPUFPbjRDTER0VFYwNkp5TXBZanRYQW5vRkNINmk5YmE2bVEAAAd5b3V0dWJlAAAAAAAAAAA=",
+            "info": {
+                "identifier": "mQITq9a_4BY",
+                "author": "Leve Violão",
+                "duration": 14000,
+                "artworkUrl": "https://i.ytimg.com/vi/mQITq9a_4BY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGHIgUCg7MA8=&rs=AOn4CLDtTV06JyMpYjtXAnoFCH6i9ba6mQ",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=mQITq9a_4BY",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "Lonely Day - System Of a Down (intro)"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAAArQMAEUxvbmVseSBEYXkgfHwgTVcyAApDaGVmR2F0c2J5AAAAAAAAdTAAC05SZUM5RFlRRW5nAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TlJlQzlEWVFFbmcBADRodHRwczovL2kueXRpbWcuY29tL3ZpL05SZUM5RFlRRW5nL21heHJlc2RlZmF1bHQuanBnAAAHeW91dHViZQAAAAAAAAAA",
+            "info": {
+                "identifier": "NReC9DYQEng",
+                "author": "ChefGatsby",
+                "duration": 30000,
+                "artworkUrl": "https://i.ytimg.com/vi/NReC9DYQEng/maxresdefault.jpg",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=NReC9DYQEng",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "Lonely Day || MW2"
+            },
+            "type": "none"
+        },
+        {
+            "encoded": "QAABJQMAHUxvbmVseSBkYXksICAgICAgUyBPIEEgRCBTb25nAA9GcmFuayBXYXRraW5zb24AAAAAAAMwaAALek1FTXNsM05aOWsAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj16TUVNc2wzTlo5awEAm2h0dHBzOi8vaS55dGltZy5jb20vdmkvek1FTXNsM05aOWsvbWF4cmVzZGVmYXVsdC5qcGc/c3FwPS1vYXltd0VtQ0lBS0VOQUY4cXVLcVFNYThBRUItQUcyQ0lBQzBBV0tBZ3dJQUJBQkdHVWdTQ2hVTUE4PSZycz1BT240Q0xBU09feUdmZDdVRFN3dnF1YmMwQl9obnR4cU9RAAAHeW91dHViZQAAAAAAAAAA",
+            "info": {
+                "identifier": "zMEMsl3NZ9k",
+                "author": "Frank Watkinson",
+                "duration": 209000,
+                "artworkUrl": "https://i.ytimg.com/vi/zMEMsl3NZ9k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIAC0AWKAgwIABABGGUgSChUMA8=&rs=AOn4CLASO_yGfd7UDSwvqubc0B_hntxqOQ",
+                "isSeekable": true,
+                "uri": "https://www.youtube.com/watch?v=zMEMsl3NZ9k",
+                "isStream": false,
+                "sourceName": "youtube",
+                "position": 0,
+                "isrc": null,
+                "title": "Lonely day,      S O A D Song"
+            },
+            "type": "none"
+        }
+    ],
+    "loadType": "search",
+    "requester": {
+        "id": "1300926429529116732",
+        "bot": true,
+        "system": false,
+        "flags": 0,
+        "username": "nixx-bot",
+        "globalName": null,
+        "discriminator": "9718",
+        "avatar": null,
+        "avatarDecoration": null,
+        "avatarDecorationData": null,
+        "verified": true,
+        "mfaEnabled": false,
+        "createdTimestamp": 1730235430844,
+        "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+        "tag": "nixx-bot#9718",
+        "avatarURL": null,
+        "displayAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+    },
+    "playlistInfo": {},
+    "userData": {},
+    "pluginInfo": {}
+}

@@ -1,0 +1,70 @@
+// prisma/schema.prisma
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./lootBot.db" // Adjust the path as necessary
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Option {
+  id         String          @id @default(cuid()) // Use cuid() for unique ID generation
+  trait      String
+  lootItem   LootItem        @relation(fields: [lootItemId], references: [id], name: "LootItemOptions")
+  lootItemId String
+  selections UserSelection[]
+}
+
+model LootItem {
+  id             String          @id @default(cuid())
+  name           String          
+  guild          String
+  user           String
+  timestamp      DateTime        @default(now())
+  options        Option[]        @relation("LootItemOptions")
+  active         Boolean         @default(true)
+  threadId       String?
+  messageId      String?
+  userSelections UserSelection[]
+}
+
+model Notification {
+  id     String @id @default(cuid())
+  userId String
+  guild  String
+}
+
+model UserSelection {
+  id         String   @id @default(cuid())
+  userId     String
+  username   User     @relation(fields: [userId], references: [id])
+  details    String?
+  reason     String?
+  lootItemId String
+  lootItem   LootItem @relation(fields: [lootItemId], references: [id])
+  optionId   String
+  option     Option   @relation(fields: [optionId], references: [id])
+  @@unique([lootItemId, optionId])
+  @@index([userId, lootItemId, optionId])
+}
+
+model User {
+  id          String      @id @default(cuid())
+  discordId   String   @unique
+  username    String
+  avatar      String?
+  userSelections UserSelection[]
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Session {
+    id            String   @id @default(cuid()) // Unique ID for the session
+    userId        String   // Reference to the user (you may need to create a User model)
+    createdAt     DateTime @default(now()) // When the session was created
+    updatedAt     DateTime @updatedAt // When the session was last updated
+    expiresAt     DateTime // When the session will expire
+    data          String   // Store any additional session data as a JSON string
+}
